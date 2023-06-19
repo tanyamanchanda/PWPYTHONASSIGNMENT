@@ -1,4 +1,4 @@
-## 16 Feb Assignment Solution 
+TANYA MANCHANDA 
 
 ### Q1. What is a database? Differentiate between SQL and NoSQL databases.
 
