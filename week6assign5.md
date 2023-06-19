@@ -1,4 +1,4 @@
-## 20 Feb Assignment Solution 
+## TANYA MANCHANDA
 
 ### Q1. Explain GET and POST methods.
 **GET Request**
